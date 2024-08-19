@@ -1,2 +1,3 @@
-# converter
-basic web app with html css and javascript
+# Unit converters
+Basic web app with html css and javascript
+
